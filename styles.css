@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  color: green;
+
+}
+
+.sewanee {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.anton {
+  font-family: 'Anton', sans-serif;
+}
+
+.shadowsIntoLight {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+}
+
+.whiteText {
+  color: white;
+}
+
+.greenText {
+  color: green;
+}
+
+.blueText {
+  color: blue;
+}
+
+.greyText {
+  color: grey;
+}
+
+.orangeText {
+  color: #DB4D1A;
+}
+
+.biggieSized {
+  font-size: 30px;
+}
+
+ul {
+  color: white;
+  list-style-type: square;
+}
